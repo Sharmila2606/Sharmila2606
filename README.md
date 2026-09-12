@@ -15,7 +15,7 @@
 <br/>
 
 ```
-> whoami
+> who am i
 Full-stack developer building products end-to-end — UI to database.
 Currently deep in TeamPulse, a real-time team productivity platform.
 Background in AI/ML: deepfake detection, blockchain e-voting.
@@ -28,7 +28,7 @@ Always shipping, always learning.
 
 ## 🧬 About Me
 
-```yaml
+```y am l
 sharmila:
   role: Full-Stack Developer & M.Sc. CS Student
   university: Pondicherry University (CGPA 9.4/10)
