@@ -28,12 +28,12 @@ Always shipping, always learning.
 
 ## 🧬 About Me
 
-```y am l
+```yaml
 sharmila:
   role: Full-Stack Developer & M.Sc. CS Student
   university: Pondicherry University (CGPA 9.4/10)
   location: Villupuram, Tamil Nadu, India
-  focus: [Full-Stack Web Dev, Backend Automation]
+  focus: [Full-Stack Web Dev, Backend Automation ]
   currently_building: TeamPulse — Team Productivity & Workflow Intelligence Platform
   currently_learning: Real-time systems, scalable backend architecture
   fun_fact: Went from static HTML pages to real-time full-stack apps in under a year
@@ -111,12 +111,7 @@ sharmila:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sharmila2606&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmila2606&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharmila2606&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharmila2606&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
